@@ -43,6 +43,13 @@ The electrician must place electrical wiring on each floor, which can often be i
 
 # Upgrades
 Every players home screen will have an class viewer section, where you will be able to customize the look of your contractors and edit the skills and abilities of them aswell.
-Contractors ( or classes) 
+Contractors ( or classes) will have certain attributes, skills, and abilities that can be leveled up as you gain experience points. 
+These exp points are gained by paying rounds and successfully completing buildings with extra time on the clock.
+
+# The Minions
+Minions are small little helpers that are unique to each contractor class.
+Each contractor will have 1-3 minions that will assist in certain tasks, take orders, and  complete construction of building blocks placed by players. 
+These little guys will be upgradeable and customizable with upgrades, creating a unique strategy aspect to each players account.
+
 # Creative Mode
- Players will have access to styles resource packs that include all available building blocks. In this mode, players can creatively design and submit building designs to the community. Most upvoted and liked designs will be included in the base games matchmaking selector
+ Players will have access to style resource packs that include all available building blocks. In this mode, players can creatively design and submit building designs to the community. Most upvoted and liked designs will be included in the base games matchmaking selector
