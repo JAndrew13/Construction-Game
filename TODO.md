@@ -1,6 +1,6 @@
 # The Big Todo! 
 Listed below is the overall Todo list for the entire project.
-Currently these items are not listed in any particular order. 
+Currently these items are not listed in any particular order and there are many things left to add to the list. 
  
 ## Planning and Design
 * Develop basic map layout
