@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Drawing",
-    "path": "folders/Scripts/Convienience/Drawing.yy",
+    "name": "Map",
+    "path": "folders/Scripts/Map.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Script9",
+  "name": "TileToScreen_X",
   "tags": [],
   "resourceType": "GMScript",
 }
